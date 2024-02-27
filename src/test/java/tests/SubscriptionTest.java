@@ -1,7 +1,7 @@
-package beeline.tests;
+package tests;
 
-import beeline.pages.ServicesPage;
-import beeline.utils.RandomUtils;
+import pages.ServicesPage;
+import utils.RandomUtils;
 import io.qameta.allure.*;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Tag;

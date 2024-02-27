@@ -1,4 +1,4 @@
-package beeline.config;
+package config;
 
 public enum Browser {
     CHROME,

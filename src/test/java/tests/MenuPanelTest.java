@@ -1,6 +1,6 @@
-package beeline.tests;
+package tests;
 
-import beeline.pages.components.BusinessPageComponent;
+import pages.components.BusinessPageComponent;
 import io.qameta.allure.*;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Tag;

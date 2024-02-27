@@ -1,4 +1,4 @@
-package beeline.utils;
+package utils;
 
 import com.github.javafaker.Faker;
 

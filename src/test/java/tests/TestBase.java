@@ -1,8 +1,8 @@
-package beeline.tests;
+package tests;
 
-import beeline.config.WebConfig;
-import beeline.config.WebDriverProvider;
-import beeline.helpers.Attach;
+import config.WebConfig;
+import config.WebDriverProvider;
+import helpers.Attach;
 import com.codeborne.selenide.logevents.SelenideLogger;
 import io.qameta.allure.selenide.AllureSelenide;
 import org.aeonbits.owner.ConfigFactory;

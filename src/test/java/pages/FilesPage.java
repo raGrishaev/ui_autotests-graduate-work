@@ -1,4 +1,4 @@
-package beeline.pages;
+package pages;
 
 import com.codeborne.pdftest.PDF;
 import com.codeborne.selenide.SelenideElement;

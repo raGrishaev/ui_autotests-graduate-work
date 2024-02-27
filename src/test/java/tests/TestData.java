@@ -1,4 +1,4 @@
-package beeline.tests;
+package tests;
 
 public class TestData {
     String phoneNumberBeeline = "9039664433";
