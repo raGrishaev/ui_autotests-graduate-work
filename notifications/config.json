@@ -1,0 +1,16 @@
+{
+  "base": {
+    "project": "Some project name",
+    "environment": "qa.guru",
+    "comment": "comment here @raGrishaev",
+    "reportLink": "",
+    "language": "ru",
+    "allureFolder": "",
+    "enableChart": false
+  },
+  "telegram": {
+    "token": "",
+    "chat": "",
+    "replyTo": ""
+  }
+}
